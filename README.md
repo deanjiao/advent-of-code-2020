@@ -1,8 +1,10 @@
 # advent-of-code-2020
 https://adventofcode.com/
 
+Goal: collect 50 stars. 2 for each day  
+  
 1 - :star: :star:  
-2 - :star:  
+2 - :star: :star:  
 3 -  
 4 -  
 5 -  
