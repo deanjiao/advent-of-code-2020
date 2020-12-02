@@ -2,7 +2,7 @@
 https://adventofcode.com/
 
 1 - :star: :star:  
-2 -  
+2 - :star:  
 3 -  
 4 -  
 5 -  
