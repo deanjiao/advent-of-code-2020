@@ -8,7 +8,7 @@ Goal: collect 50 stars. 2 for each day
 3 - :star: :star:  
 4 - :star: :star:  
 5 - :star: :star:  
-6 -  
+6 - :star: :star:  
 7 -  
 8 -  
 9 -  
