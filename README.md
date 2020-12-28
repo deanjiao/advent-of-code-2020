@@ -28,9 +28,3 @@ Goal: collect 50 stars. 2 for each day
 23 -  
 24 -  
 25 -  
-26 -  
-27 -  
-28 -  
-29 -  
-30 -  
-31 -  
